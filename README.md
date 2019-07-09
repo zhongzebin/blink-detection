@@ -14,3 +14,12 @@ How to configure the environment?
     https://blog.csdn.net/u010921682/article/details/90268910
     
 How to run this project?
+
+1. Download "model_part1.rar", "model_part2.rar" and "model_part3.rar" and decompress them into the path of your python project.
+
+2. Run "blink detection.py"
+
+Special Notice: If you use Pycharm to build your Python project, you need to press "ctrl+alt+s" and add and install the proper library. Then the "import" sentence can be compiled. 
+
+The result of this project is like this:
+
