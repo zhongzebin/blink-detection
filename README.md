@@ -1,2 +1,2 @@
 # blink-detection
-using dlib and OpenCV to detect blinks
+using dlib, cuda and OpenCV to detect blinks
