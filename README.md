@@ -23,3 +23,4 @@ Special Notice: If you use Pycharm to build your Python project, you need to pre
 
 The result of this project is like this:
 
+![image](https://github.com/zhongzebin/blink-detection/blob/master/pictures%20for%20readme/blink%20detection.png)
